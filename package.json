@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.17.4"
+    "apollo-datasource-rest": "^0.3.0",
+    "apollo-server": "^2.4.0",
+    "graphql": "^14.1.1"
   }
 }

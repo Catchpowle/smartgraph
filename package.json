@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "apollo-datasource-rest": "^0.3.0",
-    "apollo-server": "^2.4.0",
+    "apollo-server": "^2.25.4",
     "graphql": "^14.1.1"
   }
 }
